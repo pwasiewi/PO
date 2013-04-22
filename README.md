@@ -1,2 +1,2 @@
-PO
+PO - Programowanie obiektowe
 ==
